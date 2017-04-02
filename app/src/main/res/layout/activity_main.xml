@@ -48,6 +48,7 @@
                 android:layout_gravity="bottom"
                 android:background="#fff"
                 app:menu="@menu/menu_nav"
+                app:layout_insetEdge="bottom"
                 />
 
             <android.support.design.widget.FloatingActionButton
