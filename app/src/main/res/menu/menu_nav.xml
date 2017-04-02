@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="jp.gcreate.sample.samplefabbnv.MainActivity"
+    >
+    <item
+        android:id="@+id/action1"
+        android:title="@string/action1"
+        android:icon="@drawable/ic_android_black_24dp"
+        />
+
+    <item
+        android:id="@+id/action2"
+        android:title="@string/action2"
+        android:icon="@drawable/ic_android_black_24dp"
+        />
+    <item
+        android:id="@+id/action3"
+        android:title="@string/action3"
+        android:icon="@drawable/ic_android_black_24dp"
+        />
+</menu>
